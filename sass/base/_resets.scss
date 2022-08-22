@@ -1,0 +1,24 @@
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&display=swap");
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+$font: "Sofia", sans-serif;
+$font-size: 16px;
+$blue: #121c20;
+$blue2: #e3ebf1;
+$black: #000;
+$grey: #7d7d7d;
+$grey2: #f0f0f0;
+$grey3: #e8e7e7;
+$grey4: #fdfdfd;
+$bluegrey: #49606e;
+$orange: #bfbd31;
